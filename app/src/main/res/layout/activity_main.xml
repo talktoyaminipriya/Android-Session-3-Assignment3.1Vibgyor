@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.assignment31vibgyor.MainActivity">
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/tv2"
+            style="@style/ts"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:background="@color/orange"
+            android:gravity="center"
+            android:text="@string/sn2" />
+
+        <TextView
+            android:id="@+id/tv1"
+            android:background="@color/red"
+            style="@style/ts"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:gravity="center"
+            android:text="@string/sn1" />
+
+        <TextView
+            android:id="@+id/tv3"
+            style="@style/ts"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:background="@color/yellow"
+            android:gravity="center"
+            android:text="@string/sn3" />
+
+        <TextView
+            android:id="@+id/tv4"
+            style="@style/ts"
+            android:background="@color/green"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:gravity="center"
+            android:text="@string/sn4" />
+
+        <TextView
+            android:id="@+id/tv5"
+            style="@style/ts"
+            android:background="@color/blue"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:gravity="center"
+            android:text="@string/sn5" />
+
+        <TextView
+            android:id="@+id/tv6"
+            style="@style/ts"
+            android:gravity="center"
+            android:background="@color/indigo"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:text="@string/sn6" />
+
+        <TextView
+            android:id="@+id/tv7"
+            style="@style/ts"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:text="@string/sn7"
+            android:background="@color/violet"
+
+            />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

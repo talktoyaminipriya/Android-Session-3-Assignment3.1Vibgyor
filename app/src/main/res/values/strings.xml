@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment 3.1 Vibgyor</string>
+
+
+    <string name="sn1">RED</string>
+    <string name="sn2">ORANGE</string>
+    <string name="sn3">YELLOW</string>
+    <string name="sn4">GREEN</string>
+    <string name="sn5">BLUE</string>
+    <string name="sn6">INDIGO</string>
+    <string name="sn7">VIOLET</string>
+
+
+
+
+</resources>
+
